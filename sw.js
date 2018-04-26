@@ -3,3 +3,4 @@
 self.importScripts('/assets/js/vendor/{fileName}')
 
 workbox.precaching.precacheAndRoute([])
+1111
